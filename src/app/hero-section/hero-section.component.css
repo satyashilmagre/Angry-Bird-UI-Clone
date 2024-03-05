@@ -1,0 +1,35 @@
+
+.logo{
+    height: 45px;
+    margin-left: 1.7rem;
+    padding-top: 2rem;
+    padding-bottom: 0.8rem;
+}
+.banner-parent{
+    width: 90rem;
+    height: 90vh;
+    margin: 0 1rem 1rem 1rem;
+    border-radius: 10px;
+}
+.section-two{
+    display: flex;
+    justify-content: space-evenly;
+}
+.section-two-child{
+    display: flex;
+    font-size: 25px;
+    color: aliceblue;
+    align-items: center;
+}
+.section-two h4{
+    
+    padding-left: 1rem;
+    font-weight: 500;
+    /* letter-spacing: 1px; */
+
+}
+.logo-two{
+    height: 100px;
+    width: 100px;
+    border-radius: 13px;
+}

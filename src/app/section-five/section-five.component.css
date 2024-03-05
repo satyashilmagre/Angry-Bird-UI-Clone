@@ -1,0 +1,16 @@
+.section-five-images {
+    height: 200px;
+    width: 390px;
+    border-radius: 15px;
+}
+
+.section-five-child {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.section-five-child p {
+    color: white;
+    font-weight: 300;
+}
