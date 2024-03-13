@@ -2,28 +2,20 @@
     display: flex;
     justify-content: center;
     margin-top: 5rem;
-
-
 }
-
 .section-head {
     margin-top: 3rem;
     color: aliceblue;
 }
-
 .section-head h2 {
     font-weight: 400;
     font-size: 35px;
-
 }
-
 .section-head p {
     font-weight: 300;
 }
-
 .section-four-image {
     width: 600px;
-    /* margin-top: ; */
     margin-right: 5rem;
 }
 .section-four button{

@@ -1,43 +1,43 @@
 {
-  "hash": "392cfdee",
-  "configHash": "748af7b4",
+  "hash": "3f7c9b32",
+  "configHash": "4b744f9c",
   "lockfileHash": "d369624a",
-  "browserHash": "b6168bfe",
+  "browserHash": "71ad0ca4",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "910b4462",
+      "fileHash": "9dcdc54b",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "fccb4961",
+      "fileHash": "65eeebf9",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "4d957c41",
+      "fileHash": "cbbea5db",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "e4e41d63",
+      "fileHash": "707b9a10",
       "needsInterop": false
     },
     "@fortawesome/angular-fontawesome": {
       "src": "../../../../../node_modules/@fortawesome/angular-fontawesome/fesm2022/angular-fontawesome.mjs",
       "file": "@fortawesome_angular-fontawesome.js",
-      "fileHash": "5e8f54b6",
+      "fileHash": "593dacbc",
       "needsInterop": false
     },
     "@fortawesome/free-solid-svg-icons": {
       "src": "../../../../../node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
       "file": "@fortawesome_free-solid-svg-icons.js",
-      "fileHash": "77c9e061",
+      "fileHash": "a4374d02",
       "needsInterop": false
     }
   },

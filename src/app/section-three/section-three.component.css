@@ -1,15 +1,9 @@
-.section-three-title {
-    color: white;
-    margin-left: 6.9rem;
-    font-weight: 500;
-    margin-top: 5rem;
-}
 
 .section-three {
     display: flex;
-    justify-content: center;
-    gap: 2rem;
+    justify-content: space-evenly;
     line-height: 1px;
+    flex-wrap: wrap;
 }
 
 .section-three-image {
@@ -20,7 +14,8 @@
 
 .section-three h4 {
     color: white;
-    font-weight: 550;
+    font-weight: 300;
     margin-left: 0.5rem;
+    margin-top: 0.5rem;
   
 }

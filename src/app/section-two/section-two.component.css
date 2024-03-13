@@ -1,24 +1,19 @@
 .section-two {
     display: flex;
-    /* justify-content:space-evenly; */
     justify-content: center;
     gap: 2rem;
-    /* margin-left: 5rem; */
     margin-top: 6rem;
 }
-
 .section-two-images {
     border-radius: 20px;
     height: 380px;
     width: 410px;
-
 }
-
 .section-two h2 {
-    font-weight: 550;
+    font-weight: 400;
     color: white;
     margin-left: 1rem;
-
+    margin-top: 0.5rem;
 }
 
 

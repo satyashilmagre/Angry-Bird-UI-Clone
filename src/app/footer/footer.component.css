@@ -1,42 +1,32 @@
 .section-six {
     display: flex;
-    /* justify-content: center; */
     gap: 3rem;
     margin-top: 5rem;
     margin-bottom: 5rem;
 }
-
 .section-six :nth-child(2) {
     display: flex;
     justify-content: center;
     flex-direction: column;
     color: white;
-    line-height: 0.1px;
+    line-height: 20px;
 }
-
 .section-six h5 {
     align-items: flex-start;
 }
-
 .section-six h2 {
-    font-weight: 700;
+    font-weight: 500;
     font-size: 2.5rem;
 }
-
 .section-six-image {
     height: 350px;
     width: 650px;
     border-radius: 5px;
     margin-left: 9.5rem;
-
 }
-
 .line {
-    color: black;
+    color:white;
 }
-
-
-
 
 .footer {
     margin-top: 3rem;
@@ -51,18 +41,17 @@
 
 .footer-right {
     display: flex;
-
-
 }
-.icons{
+
+.icons {
     margin: 1rem 2rem 1rem 2rem;
 }
-.icons i{
+
+.icons i {
     padding: 0rem 2rem 0rem 0rem;
 }
 
 .footer-right a {
-    /* padding-left: 0.5rem; */
     margin-right: 1.5rem;
     color: white;
     text-decoration: none;
