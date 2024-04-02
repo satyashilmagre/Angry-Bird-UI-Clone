@@ -1,6 +1,6 @@
 .nav-logo{
     width: 18rem;
-    margin-left: 1.5rem;
+    /* margin-left: 1.5rem; */
     margin-top: 0.7rem;
 }
 .logo {
@@ -11,15 +11,17 @@
 }
 
 .banner-parent {
-    width: 90rem;
+    width: 95vw;
     height: 90vh;
-    margin: 0 1rem 1rem 1rem;
+    /* margin: 0 1rem 1rem 1rem; */
     border-radius: 10px;
 }
 
 .section-two {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
+
 }
 
 .section-two-child {
@@ -27,6 +29,7 @@
     font-size: 25px;
     color: aliceblue;
     align-items: center;
+    margin-top: 2rem;
 }
 
 .section-two h4 {

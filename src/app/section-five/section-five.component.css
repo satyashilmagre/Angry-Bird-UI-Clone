@@ -12,6 +12,7 @@
 .section-five-child {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .section-five-child p {

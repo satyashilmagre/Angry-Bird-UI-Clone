@@ -1,7 +1,8 @@
 .section-four {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     margin-top: 5rem;
+    flex-wrap: wrap;
 }
 .section-head {
     margin-top: 3rem;
@@ -15,8 +16,8 @@
     font-weight: 300;
 }
 .section-four-image {
-    width: 600px;
-    margin-right: 5rem;
+    /* width: 100vw; */
+    /* margin-right: 5rem; */
 }
 .section-four button{
     background-color: white;
